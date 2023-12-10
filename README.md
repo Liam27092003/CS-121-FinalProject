@@ -56,8 +56,9 @@ Exit: Closes the application window.
 
 ## Contributors
 
-This application is developed and maintained by [Your Name/Team Name].
+This application is developed and maintained by:
+RONCALES, JOHN LIAM-28
+ASIS, JHENREY-24
+MANALO, JHON ZEDRICK-24
+IDEA, PAUL IVAN-24
 
-## License
-
-[License information goes here if applicable]
