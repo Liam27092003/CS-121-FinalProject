@@ -57,8 +57,12 @@ Exit: Closes the application window.
 ## Contributors
 
 This application is developed and maintained by:
-RONCALES, JOHN LIAM-28
-ASIS, JHENREY-24
-MANALO, JHON ZEDRICK-24
-IDEA, PAUL IVAN-24
+
+1. RONCALES, JOHN LIAM-28%
+
+2. ASIS, JHENREY-24%
+
+3. MANALO, JHON ZEDRICK-24%
+   
+4. IDEA, PAUL IVAN-24%
 
