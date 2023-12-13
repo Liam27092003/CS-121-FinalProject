@@ -58,11 +58,12 @@ Exit: Closes the application window.
 
 This application is developed and maintained by:
 
-1. RONCALES, JOHN LIAM-28%
+1. RONCALES, JOHN LIAM / Lead Programmer-28%
 
-2. ASIS, JHENREY-24%
+2. ASIS, JHENREY / Troubleshooter-24%
 
-3. MANALO, JHON ZEDRICK-24%
-   
-4. IDEA, PAUL IVAN-24%
+3. MANALO, JHON ZEDRICK / Troubleshooter-24%
+
+4. IDEA, PAUL IVAN / Troubleshooter-24%
+
 
