@@ -63,6 +63,16 @@ The system offers functionalities such as entering employee details, computing s
 - Python 3
 - Tkinter library
 
+  
+
+# Screenshots Of The Project
+![Screenshot (99)](https://github.com/Liam27092003/CS-121-FinalProject/assets/153203514/54b58b8f-0f2a-4628-ab6c-53e934c7897c)
+![Screenshot (100)](https://github.com/Liam27092003/CS-121-FinalProject/assets/153203514/e6772686-7874-4435-b353-952e03c2cd81)
+![Screenshot (101)](https://github.com/Liam27092003/CS-121-FinalProject/assets/153203514/465d5c91-c370-43b4-9825-03d0e479c191)
+![Screenshot (102)](https://github.com/Liam27092003/CS-121-FinalProject/assets/153203514/64904e69-5421-4027-8393-bc9dc2fbcca9)
+![Screenshot (103)](https://github.com/Liam27092003/CS-121-FinalProject/assets/153203514/7f7de795-55cd-498d-b1ec-8c6a90d948f6)
+
+
 
 
 ## Contributors
