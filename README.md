@@ -12,6 +12,7 @@
 *Idea, Paul Ivan*
 
 # *SELF ASSESSMENT*
+**Based on the given rubric for grading, the group assesed the system and it resulted to this:**
 | Metric  |  4 | 3  | 2  |  1 |
 |---|---|---|---|---|
 | Code Reusability  |   | / |   |   |
@@ -76,15 +77,16 @@ The system offers functionalities such as entering employee details, computing s
 
 
 ## Contributors
+# Individual and Group Assessment
+## Group Assessment
+|  SR-CODE |       MEMBER      | GRADE |   CONTRIBUTION  |
+|:--------:|:-----------------:|:-----:|:---------------:|
+| 22-02916 | RONCALES, JOHN LIAM   | 28%   | Lead Programmer |
+| 22-08733 | ASIS, JHENREY | 24%   | Troubleshooter  |
+| 22-07917 | MANALO, JHON ZEDRICK| 24%   | Troubleshooter |
+| 22-08645 |IDEA, PAUL IVAN | 24%   | Troubleshooter  |
+|          | TOTAL             | 100%  |                 |
 
-This application is developed and maintained by:
 
-1. RONCALES, JOHN LIAM / Lead Programmer-28%
-
-2. ASIS, JHENREY / Troubleshooter-24%
-
-3. MANALO, JHON ZEDRICK / Troubleshooter-24%
-
-4. IDEA, PAUL IVAN / Troubleshooter-24%
 
 
